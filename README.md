@@ -2,11 +2,11 @@
 
 This repository contains a **Movie Recommendation System** that uses machine learning techniques to recommend movies to users based on their preferences, historical data, and movie attributes. This project is built using Python and multiple datasets, employing collaborative filtering, content-based filtering, and hybrid approaches to provide accurate recommendations.
 
-## Project Overview
 This is a **Group Project** 
-**Authors** 
-1-A.Sree Tharun Raju
-2-T.Punith Kumar Naidu
+- **Authors** 
+- **1**-A.Sree Tharun Raju
+- **2**-T.Punith Kumar Naidu
+## Project Overview
 The **Movie Recommendation System** leverages three different datasets to recommend movies to users. The system is designed to analyze users' viewing habits, ratings, and content features of movies to suggest relevant movies. It supports several recommendation algorithms, including user-based and item-based collaborative filtering, content-based filtering, and hybrid models.
 
 ### Key Features
